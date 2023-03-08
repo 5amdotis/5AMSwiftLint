@@ -2,13 +2,13 @@
 
 Add [SwiftLint](https://github.com/realm/SwiftLint/) to your Xcode Project or Swift Package as a Plugin.
 
-#### Info
+### Info
 
 - SwiftLint Version: 0.50.3
 - SwiftLint Repo: https://github.com/realm/SwiftLint/
 
 
-#### Usage in Xcode Project
+### Usage in Xcode Project
 
 1. Add this repo https://github.com/5amdotis/5AMSwiftLint as Swift Package to your project
 2. Add `SwiftLintPlugin` to Run Build Tool Plug-ins in Build Phases
@@ -17,7 +17,7 @@ Add [SwiftLint](https://github.com/realm/SwiftLint/) to your Xcode Project or Sw
 5. For CI/CD: add option `-skipPackagePluginValidation` to `xcodebuild` command
 
 
-#### Usage in Swift Package
+### Usage in Swift Package
 
 1. Add dependency
 ``` 
@@ -39,3 +39,8 @@ targets: [
 ]
 ```
 3. Build package
+
+
+### License
+
+See LICENSE.md
