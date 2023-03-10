@@ -2,7 +2,7 @@
 //  main.swift
 //  5AMSwiftLint
 //
-//  MIT License
+//  BSD 3-Clause License
 //  Copyright (c) 2023 Peter Cammeraat (https://5am.is/xcode-project-plugins/)
 //
 
